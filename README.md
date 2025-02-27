@@ -22,4 +22,4 @@ To start the Streamlit application, run the following command in your terminal:
 ### Chatbot Interface  
 Below is a preview of the chatbot interface in action: 
 
-![Chatbot demo](https://imgur.com/a/3g8cAdn)
+![Chatbot demo](https://imgur.com/J98ij3a)

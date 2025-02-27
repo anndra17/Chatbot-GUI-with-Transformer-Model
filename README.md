@@ -18,3 +18,8 @@ To run this project, you need to install the following Python packages:
 To start the Streamlit application, run the following command in your terminal:
 
 - `streamlit run app.py`
+
+### Chatbot Interface  
+Below is a preview of the chatbot interface in action: 
+
+![Chatbot demo](https://imgur.com/a/3g8cAdn)
